@@ -9,7 +9,7 @@ Installation:
 - Clone the repository
 - Build the project with Cmake
 
-This steps create the executable of the IA.
+Those steps create the executable of the IA.
 
 Testing:
 
